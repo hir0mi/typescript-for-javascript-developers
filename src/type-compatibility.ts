@@ -37,4 +37,5 @@ class Person {
 
 let me: Animal;
 me = new Person(56, 'のざさん');
+console.log(me);
 
